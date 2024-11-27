@@ -3,7 +3,7 @@ import { Text } from 'react-native';
 
 function App(): React.JSX.Element {
   return (
-    <Text>Welcome to Health App</Text>
+    <Text>Welcome to Health App </Text>
   );
 }
 
